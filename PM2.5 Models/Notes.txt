@@ -1,0 +1,24 @@
+1) Build in additional metrics to verfify performance
+2) Create Validation set for Phola and Medupi -> Need to apply across all forecasts 
+3) Back calculate NO1: NO1 = NOX - NO2 -> Almost Done
+4) Create 6,12 and 24 models to present next week-> PM2.5 is done, PM 10 almost there
+5) Scrutinise the PM10 Data further
+6) Fix the overfitting for the Neural net 
+7) Maybe fit the LGBM Regressor?
+8) Ask Dr Langerman if its possible to get more recent data from Eskom
+9) Standardise time stamps to hourly-> 
+
+
+Goals for 12 August 2025:
+Complete back calculation for all models-> done
+Finalise Validation sets for Medupi and Phola for all forecasts
+Complete PM 10 models
+
+Goals for 13 August 2025.
+Finish what was not done on Tuesday
+Build in additional metrics
+
+Goals for 14 August 2025
+Apply metrics to all forecasts for PM2.5 and PM 10
+Standardise time stamps
+Run that on PM2.5 models
